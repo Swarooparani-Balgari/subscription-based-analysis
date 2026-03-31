@@ -1,4 +1,4 @@
-## Suscription - based Analysis
+## Subscription - based Analysis
 
 ## Objective
 A subscription-based streaming service wants to analyze user subscriptions to understand plan performance, churn risk indicators, and revenue trends.
