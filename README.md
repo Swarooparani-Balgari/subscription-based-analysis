@@ -40,4 +40,4 @@ A subscription-based streaming service wants to analyze user subscriptions to un
 - Dashboard.pbix - Power BI Dashboard
 - Screenshot.png - Screenshot of Dashboard
 
-[Dashboard](Screenshot.png)
+![Dashboard](Screenshot.png)
